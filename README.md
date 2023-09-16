@@ -31,6 +31,6 @@ To use the calculator tool, follow these steps:
 2. Open a terminal or command prompt and navigate to the project directory.
 3. Run the following command:
 
-npx calculator
+npx calc
 
 
