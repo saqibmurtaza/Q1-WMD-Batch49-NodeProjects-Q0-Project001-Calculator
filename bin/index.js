@@ -90,7 +90,8 @@ async function main() {
         let expression = answer_2.multipleOperations;
         let expressionResult;
     
-        let validInput = /^[0-9+\-*/(). ]+$/;
+        let validInput = /^[0-9+\-*/(). ]+$/; 
+        //https://chat.openai.com/share/c6508ee1-eb7e-422c-b23f-68c55ae94bd9
         if(!validInput.test(expression)){
             
             console.log(`----------------------------------------------------------------------------------`);
